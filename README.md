@@ -30,3 +30,6 @@ Yes, the contract implements [ERC20Burnable](https://github.com/OpenZeppelin/ope
 
 **What's next?**  
 [Follow me](https://twitter.com/ph4n70mr1ddl3r) and I will announce if there are community built projects built using OGX. Also, check the [OGX Forum](https://github.com/ph4n70mr1ddl3r/ogx/discussions) every now and then if there are discussions. You can also post there if you have questions or you need help.
+
+**Notes**  
+I'll execute the claim for crank 1 and 2 to demonstrate and update this readme for details.
