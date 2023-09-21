@@ -2,7 +2,7 @@
 ## How to Claim OGX Tokens
 
 Step 1.  
-Confirm that you have previously claimed crank anywhere from 1 to 3,200,000.  
+Confirm that you have previously claimed crank anywhere from 1 to 3,200,000 (already minted or still waiting won't matter, if you own the crank, you qualify).  
 
 Step 2.  
 Locate your merkle proof in one of the files inside the proofs folder https://github.com/ph4n70mr1ddl3r/ogx/tree/main/proofs.  
